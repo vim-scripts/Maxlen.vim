@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=673
+
+When you want to know the longest line in the buffered text file, Please try this script.
+It makes the cursor jumped on the longest line and also marks the top five long lines with the message like "Marked a=lin.54(col.78), b=36(77), c=56(77), d=20(76), e=55(76)".
+This is my first vim scripting and I've enjoyed it a lot.
+
